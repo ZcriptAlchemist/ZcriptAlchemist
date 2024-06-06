@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MedVault](https://github.com/SriKanth620/Med-Vault)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **GO**
 
 - 📫 How to reach me **shaikmsuhail02@gmail.com**
 
