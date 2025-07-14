@@ -1,13 +1,28 @@
-<h1 align="center">Hi 👋, I'm Suhail</h1>
-<h3 align="center">A Software Engineer from India</h3>
+# 👋 Hey, I’m Suhail
 
-- 🔭 I’m currently working on [MedVault](https://github.com/SriKanth620/Med-Vault)
+**Backend engineer specializing in Go, PostgreSQL, Redis, and AWS with hands-on experience building scalable, real-world systems in fintech.** I care about clean architecture, sensible defaults, and shipping software that doesn’t break under pressure.  
+Calm under chaos, driven by clarity, and always playing the long game, in code and in life.
 
-- 🌱 I’m currently learning **GO**
+---
 
-- 📫 How to reach me **shaikmsuhail02@gmail.com**
+## 🛠️ What I Work With
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- **Languages & Tools:** Go, PostgreSQL, Redis, AWS, RabbitMQ, Linux  
+- **Experience In:** Fintech, cloud infra, high-traffic systems  
+- **Strengths:** Thinking clearly, building reliably, keeping things maintainable
 
-[![Suhail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZcriptAlchemist)](https://github.com/ZcriptAlchemist/github-readme-stats)
+---
+
+## 💭 What I Value
+
+- Systems that make sense, not just work  
+- Code that’s built to last, not just to ship fast  
+- Growing through iteration — in code, product, and as a person
+
+---
+
+- [reach me out here](mailto:shaikmsuhail02@gmail.com)
+ 
+---
+
+> Code is easy. Clarity is hard. I aim for both.
